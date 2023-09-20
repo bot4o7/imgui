@@ -70,3 +70,7 @@ Makefile
 # Visual Studio files and folder
 *.sln
 *.vcxproj*
+/premake5.lua
+/premake5.lua
+/premake5.lua
+/premake5.lua
